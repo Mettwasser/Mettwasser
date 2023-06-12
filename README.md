@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**Mettwasser/Mettwasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h1>Hello there, my name's Mett</h1>
+  - Constantly working on becoming a better developer -
+  <br />
+  <br />
+  Add me on...
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40">
+  <br />
+  <br />
+  <img alt="Mett's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mettwasser&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <br />
+  <img alt="Mett's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mettwasser&theme=tokyonight&layout=donut-vertical" media="(prefers-color-scheme: dark)" />
+</div>
