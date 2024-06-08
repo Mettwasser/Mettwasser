@@ -12,10 +12,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>
-  <div style="display: flex; justify-content: center; align-items: center; height: 50px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40"  height="40" style="margin-right: 10px;">
-      <p style="margin: 0;">(still learning)</p>
-  </div>
+  <br />
+  <br />
+  Still learning:
+  <br />
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40"  height="40"></img>
   <br />
   <br />
     <img alt="Mett's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mettwasser&theme=tokyonight&layout=donut-vertical" media="(prefers-color-scheme: dark)">
