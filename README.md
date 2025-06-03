@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello there, my name's Mett</h1>
-  - Constantly working on becoming a better developer -
+  Currently refining my Rust skills
   <br />
   <br />
   Skills:
