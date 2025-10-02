@@ -16,7 +16,7 @@
   <br />
   Still learning:
   <br />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="Rust" width="40"  height="40"></img>
+  <img src="https://raw.githubusercontent.com/Mettwasser/Mettwasser/refs/heads/main/rust.svg" alt="Rust" width="40"  height="40"></img>
   <br />
   <br />
     <img alt="Mett's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mettwasser&theme=tokyonight&layout=donut-vertical" media="(prefers-color-scheme: dark)">
