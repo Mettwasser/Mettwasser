@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>
   <br />
   <br />
-  Still learning:
+  Comfortable (but still learning) with:
   <br />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="Rust" width="40"  height="40"></img>
   <br />
